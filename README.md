@@ -1,5 +1,6 @@
-### Hi there s👋🔥
+### Hi there👋🔥
 
+A dedicated developer with a product mindset and a team player experienced in solving problems, making efficient and scalable apps,improving performance and driving product growth. Currently having 1+ year of experience. Exploring new challenges
 
 
 - 🔭 I’m currently working on Web Applications 😍
