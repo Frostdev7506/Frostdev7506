@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neeraj Butola</h1>
-<h3 align="center">Experienced MERN stack developer with 2+ years of expertise in designing and building scalable, high-performance web applications. A dedicated team player with a product-centric mindset, adept at solving complex problems, optimizing application performance, and driving measurable growth. Committed to delivering robust solutions that enhance user experience and contribute to overall product success. 
-</h3>
+<h3 align="center">Results-driven MERN Stack Developer with 2.8+ years of experience in designing and building scalable, high-performance web applications. Proficient in React, Node.js, Express.js, Redux, MongoDB, Zustand, Cypress, and Jest. Skilled in delivering robust, maintainable solutions that enhance user experience, optimize performance, and meet demanding business requirements. A dedicated team player with a product-centric mindset, committed to driving measurable growth and contributing to overall product success.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frostdev7506" alt="frostdev7506" /></a> </p>
 
