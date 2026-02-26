@@ -1,14 +1,19 @@
 <h1 align="center">Hi 👋, I'm Neeraj Butola</h1>
-<h3 align="center">Results-driven MERN Stack Developer with 2.8+ years of experience in designing and building scalable, high-performance web applications. Proficient in React, Node.js, Express.js, Redux, MongoDB, Zustand, Cypress, and Jest. Skilled in delivering robust, maintainable solutions that enhance user experience, optimize performance, and meet demanding business requirements. A dedicated team player with a product-centric mindset, committed to driving measurable growth and contributing to overall product success.</h3>
+<h3 align="center">I’m a Senior Full Stack Engineer (MERN + Cloud) with 4+ years of experience building scalable, secure, production-grade applications across fintech, AI workflow systems, and LMS platform. I am also a  dedicated team player with a product-centric mindset, committed to driving measurable growth and contributing to overall product success.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frostdev7506" alt="frostdev7506" /></a> </p>
 
-- 🔭 I’m currently working on Web Applications 😍
-- 🌱 I’m currently learning Javascript and React and Node🔥🔥🔥
-- 👯 I’m looking to collaborate on any Open Source projects😊
-- 🤔 I’m looking for help with React
-- ⚡ Fun fact: I prefer FOSS over propritery software😉
-- 📫 How to reach me **Neerajbutola234@gmail.com**
+🔭 I’m currently building scalable cloud-native web applications (MERN + AWS + Kubernetes)
+
+🌱 I’m currently diving deep into Agentic AI Orchestration & event-driven architectures (Kafka/NATS)
+
+👯 I’m open to collaborating on high-impact open source projects (DevTools, infra, performance, distributed systems)
+
+🤝 I enjoy discussions around React performance, backend architecture & system design
+
+⚡ Fun fact: I prefer FOSS over proprietary software — self-hosted > SaaS 😌
+
+📫 Reach me at Neerajbutola234@gmail.com
 
 
 
