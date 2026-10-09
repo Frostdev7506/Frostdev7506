@@ -1,27 +1,31 @@
-<h1 align="center">Hi 👋, I'm Neeraj Butola</h1>
-<h3 align="center">I’m a Senior Full Stack Engineer (MERN + Cloud) with 4+ years of experience building scalable, secure, production-grade applications across fintech, AI workflow systems, and LMS platform. I am also a  dedicated team player with a product-centric mindset, committed to driving measurable growth and contributing to overall product success.</h3>
+# Neeraj Butola — Full-Stack Engineer building AI applications
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=frostdev7506" alt="frostdev7506" /></a> </p>
+I'm a senior full-stack engineer based in Navi Mumbai, India, with 4+ years of experience across web applications, AI workflow systems, fintech, and learning management platforms. I work with React, Next.js, Node.js, and AWS, with a focus on application performance and backend architecture.
 
-🔭 I’m currently building scalable cloud-native web applications (MERN + AWS + Kubernetes)
+I’m interested in building useful AI applications and contributing to open-source developer tools. I’m also exploring agentic AI orchestration and event-driven systems with Kafka and NATS.
 
-🌱 I’m currently diving deep into Agentic AI Orchestration & event-driven architectures (Kafka/NATS)
+[Portfolio](https://neerajbutola.netlify.app) · [LinkedIn](https://www.linkedin.com/in/neeraj-butola) · [Email](mailto:Neerajbutola234@gmail.com)
 
-👯 I’m open to collaborating on high-impact open source projects (DevTools, infra, performance, distributed systems)
+## Selected projects
 
-🤝 I enjoy discussions around React performance, backend architecture & system design
+| Project | What it explores | Stack |
+| --- | --- | --- |
+| [Chatsphere — AI chat with PDFs](https://github.com/Frostdev7506/Chatsphere) | An AI application for chatting with PDF documents. | Next.js, TypeScript, OpenAI, Vercel AI SDK |
+| [Bloom filter signup demo](https://github.com/Frostdev7506/fullstackBloomFilterDemo) | Using a Bloom filter to reduce database lookups during email registration, with a React interface and an Express API. | React, Node.js, Express, SQLite |
+| [PupilSync — learning management platform](https://github.com/Frostdev7506/pupilSyncPlatform) | A learning platform with interfaces for students, teachers, and institutions. | Next.js, TypeScript, Tailwind CSS |
+| [Runora — personal budget tracker](https://github.com/Frostdev7506/Runora) | A mobile application for tracking income, expenses, and budgets. | React Native, JavaScript, Zustand |
 
-⚡ Fun fact: I prefer FOSS over proprietary software — self-hosted > SaaS 😌
+## Technologies I work with
 
-📫 Reach me at Neerajbutola234@gmail.com
+- **Frontend:** JavaScript, TypeScript, React, Next.js, Tailwind CSS, React Native.
+- **Backend and data:** Node.js, Express, MongoDB, PostgreSQL, MySQL.
+- **AI applications:** OpenAI API and Vercel AI SDK; exploring agent orchestration and AI workflows.
+- **Cloud and tooling:** AWS, Docker, Kubernetes, Linux, Git.
 
+## Open-source collaboration
 
+I welcome collaboration on AI applications, developer tools, self-hosted software, and web performance. I enjoy discussing React performance, backend architecture, and system design.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+Found something to improve in one of my projects? Open an issue in that repository with the problem or idea. For a broader collaboration, reach out on [LinkedIn](https://www.linkedin.com/in/neeraj-butola) or by [email](mailto:Neerajbutola234@gmail.com).
 
-
-
-
-
-
+I prefer free and open-source software and enjoy exploring self-hosted alternatives.
