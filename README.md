@@ -4,7 +4,7 @@ I'm a senior full-stack engineer based in Navi Mumbai, India, with 4+ years of e
 
 I’m interested in building useful AI applications and contributing to open-source developer tools. I’m also exploring agentic AI orchestration and event-driven systems with Kafka and NATS.
 
-[Portfolio](https://neerajbutola.netlify.app) · [LinkedIn](https://www.linkedin.com/in/neeraj-butola) · [Email](mailto:Neerajbutola234@gmail.com)
+[Portfolio](https://neerajbutola.in) · [LinkedIn](https://www.linkedin.com/in/neeraj-butola) · [YouTube](https://www.youtube.com/@NeerajSSinghButola) · [Email](mailto:Neerajbutola234@gmail.com)
 
 ## Selected projects
 
